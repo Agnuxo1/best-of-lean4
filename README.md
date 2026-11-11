@@ -20,6 +20,10 @@ This curated list contains 46 awesome open-source projects with a total of 16K s
 
 > 🧙‍♂️ Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
+<!-- impact-note:start -->
+<sub><strong>Efficiency and practical value.</strong> This fork retains the <a href="https://github.com/34j/best-of-lean4">upstream project</a>’s organised Lean resources, including tutorials, examples, packages and tools with maintenance indicators. Learners and researchers can locate existing proof-development components before rebuilding supporting infrastructure or introductory examples. Its practical value is accessible reuse and discovery; popularity-based ranking indicators do not establish theorem-proving speed or the correctness of an application’s formalisation.</sub>
+<!-- impact-note:end -->
+
 ## Contents
 
 - [Cheatsheets](#cheatsheets) _9 projects_
